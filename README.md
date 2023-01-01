@@ -27,7 +27,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - CSS
 
 ## 💻 Projeto
+
 Gelateria é uma aplicação de uma página de um site de uma sorveteria para apresentar seus produtos, aqui você pode ver todos os sabores, descobrir mais sobre a loja na seção sobre e pode contatá-los com os dados disponíveis no rodapé.
+
 ## ❓ Criação
 
 + Foram utilizados os conceitos de criação, importação e exportação de um componente e , por consequencia, conseguir organizar o código o dividindo em partes menores e arquivos isolados. E também criar páginas que não necessitam de recarregamento.
@@ -43,7 +45,7 @@ Foram posto em prática os seguintes conceitos:
 
 Você pode acessar o link abaixo e visualizar o deploy:
 
-
+http://projeto-sorveteria-nu.vercel.app/
 
 ou
 
