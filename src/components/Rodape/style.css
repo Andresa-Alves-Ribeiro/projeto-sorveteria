@@ -1,0 +1,52 @@
+footer {
+  background-color: black;
+}
+
+.container-informacoes {
+  display: flex;
+  color: rgb(249, 219, 121);
+  align-items: center;
+  justify-content: space-between;
+  font-size: 14px;
+}
+
+.container-informacoes img {
+  width: auto;
+  height: 120px;
+}
+
+.secao-dev {
+  color: rgb(249, 219, 121);
+  text-align: center;
+  padding: 20px 20px;
+}
+
+.secao-dev a {
+  color: #ff5d95;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.secao-dev a:hover {
+  font-size: 16px;
+  color: white;
+  text-decoration: underline;
+}
+
+.secao-dev a:active {
+  font-size: 16px;
+  color: red;
+}
+
+@media screen and (max-width: 768px){
+  .container-informacoes {
+    align-items: center;
+    flex-direction: column;
+  }
+
+  .container-informacoes div {
+    width: 100%;
+    text-align: center;
+    margin-top: 20px;
+  }
+}
